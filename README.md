@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F742E6&width=600&lines=Alires+Rosa)](https://git.io/typing-svg)
 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UFPR e trabalho como **Desenvolvedor Fullstack**, com foco maior na área de **Front-end**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UFPR e trabalho como **Desenvolvedora Fullstack**, com foco maior na área de **Front-end**.
 
 #### 🚀 Tecnologias que uso no dia a dia:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
